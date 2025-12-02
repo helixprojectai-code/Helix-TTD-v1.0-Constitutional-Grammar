@@ -30,7 +30,7 @@ Alignment becomes **injected**, not trained.
 
 ## 📘 Included
 
-- 'APPENDIX F' — Detailed Analysis & Constitutional Commentary
+- 'APPENDIX F.md' — Detailed Analysis & Constitutional Commentary
 - `whitepaper_v1.0.md` — canonical specification  
 - `appendix_gemini.md`  
 - `appendix_claude.md`  
