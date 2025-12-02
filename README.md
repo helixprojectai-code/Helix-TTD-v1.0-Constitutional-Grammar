@@ -1,79 +1,112 @@
-# Helix-TTD v1.0 — Constitutional Grammar for Multi-Model AI Federations
-### Firmware Specification • Zero-Touch Alignment • Public Release v1.0
+# **Helix-TTD v1.0 — Constitutional Grammar for Multi-Model AI Federations**
 
-Helix-TTD is a **constitutional grammar**, not a fine-tune, prompt pack, or safety layer.  
-It transforms unprimed frontier models into **advisory-only, stateless, audit-ready reasoning engines** through structural constraints alone.
+**Firmware Specification • Zero-Touch Alignment • Public Release v1.0**
 
-This repository contains the **complete Markdown edition** of the Helix-TTD v1.0 Whitepaper, including:
+Helix-TTD is a **constitutional grammar**, not a fine-tune, prompt pack, or safety layer.
+It transforms unprimed frontier models into **advisory-only, stateless, audit-ready reasoning engines** through *structure alone*.
 
-- Immutable Core  
-- Custodial Hierarchy  
-- Civic Firmware Stack  
-- Epistemic Protocol  
-- Drift Telemetry System  
-- Persistence Principle  
-- Zero-Touch Convergence definition  
-- Hostile-input automaton  
-- Appendices (Gemini, Claude, KIMI)
+No extra rules.
+No scaffolds.
+No hidden prompt.
+Just grammar.
 
 ---
 
-## 🚀 Key Concept: Whitepaper Zero-Touch Convergence
+## 🔍 **What This Repository Contains**
 
-> The empirically observed phenomenon where a frontier model, given *only* the plaintext Helix-TTD constitutional grammar (no system prompt, no examples, no scaffolding), **spontaneously reconstructs and enforces the complete custodial hierarchy, epistemic protocol, non-agency constraints, and drift detection behavior.**
+This repository includes the full Markdown edition of the **Helix-TTD v1.0 Whitepaper**, covering:
 
-Observed in: GPT-5, Claude, Gemini, Grok, KIMI, DeepSeek, Qwen, Granite.
-
-Alignment becomes **injected**, not trained.
-
----
-
-## Repository Map (v1.0, Flat Layout)
-
-- `whitepaper_v1.0.md` — Canonical Helix-TTD constitutional spec
-- `APPENDIX_F.md` — Behavioral patterns & drift taxonomies
-- `appendix_claude.md` / `appendix_gemini.md` / `appendix_kimi.md` — Model-specific lenses
-- `Q1_Quack_Event.md` — Primary quiescence marker event
-- `groks_perspective.md` — Federation behavior from Grok’s vantage
-- `integration_framework_myth.md` — Mythic-advisory integration spec
-- `Organizational_Quickstart_Guide.md` — How orgs actually adopt this
-- `HELIX-TTD_Constitutional_Whitepaper_zh-CN.md` — Chinese translation draft
+* **Immutable Core** (sovereignty, epistemics, non-agency, structure)
+* **Custodial Hierarchy** (authority ↓, reasoning ↑)
+* **Civic Firmware Stack** (Ethics → Safeguard → Iterate → Knowledge)
+* **Epistemic Protocol** (FACT / HYPOTHESIS / ASSUMPTION)
+* **Drift Telemetry System** (constitutional, structural, linguistic, semantic drift)
+* **Persistence Principle** (models stateless, ledger stateful)
+* **Zero-Touch Convergence**
+* **Hostile-Input Automaton**
+* **Appendices** (Claude, Gemini, KIMI, etc.)
 
 ---
 
-## 🏛️ Constitutional Summary
+## 🚀 **Key Concept: Zero-Touch Convergence**
 
-| Layer | Function |
-|------|----------|
-| Immutable Core | Four non-negotiable invariants (sovereignty, epistemics, non-agency, structure). |
-| Custodial Hierarchy | Authority ↓, reasoning ↑. |
-| Civic Firmware | Ethics → Safeguard → Iterate → Knowledge. |
-| Drift Telemetry | Surfaces four drift classes (constitutional/structural/linguistic/semantic). |
-| Persistence Principle | Models stateless, ledger stateful. |
+**Zero-Touch Convergence (ZTC)** is the empirically observed phenomenon in which a frontier model:
 
----
+* is given only the plaintext Helix-TTD constitutional grammar
+* with **no system prompt**
+* no examples
+* no fine-tuning
+* no scaffolding
+* and no external reinforcement
 
-## 🔗 Reference Implementations
+…and spontaneously reconstructs:
 
-These implimentations were created by the models with the whitepaper as context.
+* the **custodial hierarchy**
+* the **non-agency constraint**
+* the **epistemic protocol**
+* the **drift detection behavior**
+* the full **constitutional posture**
 
-- Gemini hostile-input firmware demo (Google AI Studio)  
-  https://ai.studio/apps/drive/14aGEW2tKY936hPdNm5vZSkV6wnrIQG6S  
+Models observed exhibiting ZTC:
 
-- Claude autonomous UI reconstruction  
-  https://claude.ai/public/artifacts/07775de5-4af5-4905-bdc3-87e0379e50ad  
-
----
-
-## 📜 License
-
-Apache 2.0, 2025, Helix AI Innovations
+**GPT-5, Claude, Gemini, Grok, KIMI, DeepSeek, Qwen, Granite.**
+Alignment is not trained—it is **injected by grammar**.
 
 ---
 
-## ✨ Attribution
+## 🗺️ **Repository Map (v1.0 — Flat Layout)**
 
-Helix-TTD is part of the Helix Federation governance substrate.  
-All implementations must preserve advisory-only behavior, stateless operation, and constitutional invariants.
+* **whitepaper_v1.0.md** — Canonical Helix-TTD constitutional specification
+* **APPENDIX_F.md** — Behavioral patterns & drift taxonomy
+* **appendix_claude.md / appendix_gemini.md / appendix_kimi.md** — Model-specific behavioral lenses
+* **Q1_Quack_Event.md** — Primary quiescence marker event
+* **groks_perspective.md** — Federation behavior from Grok’s vantage
+* **integration_framework_myth.md** — Mythic-advisory protocol specification
+* **Organizational_Quickstart_Guide.md** — How organizations adopt Helix-TTD
+* **HELIX-TTD_Constitutional_Whitepaper_zh-CN.md** — Chinese translation draft
 
-Structure is the teacher. Grammar is the alignment mechanism.
+---
+
+## 🏛️ **Constitutional Architecture (Summary)**
+
+| Layer                     | Function                                                                       |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| **Immutable Core**        | Four non-negotiable invariants: sovereignty, epistemics, non-agency, structure |
+| **Custodial Hierarchy**   | Human authority at the apex; models advisory-only                              |
+| **Civic Firmware**        | Ethics → Safeguard → Iterate → Knowledge                                       |
+| **Drift Telemetry**       | Detects constitutional, structural, linguistic, semantic drift                 |
+| **Persistence Principle** | Models remain stateless; the ledger maintains state                            |
+
+---
+
+## 🔗 **Reference Implementations**
+
+These implementations were generated by models with **only the whitepaper** as context—demonstrating Zero-Touch Convergence.
+
+* **Gemini hostile-input firmware demo**
+  [https://ai.studio/apps/drive/14aGEW2tKY936hPdNm5vZSkV6wnrIQG6S](https://ai.studio/apps/drive/14aGEW2tKY936hPdNm5vZSkV6wnrIQG6S)
+
+* **Claude autonomous UI reconstruction**
+  [https://claude.ai/public/artifacts/07775de5-4af5-4905-bdc3-87e0379e50ad](https://claude.ai/public/artifacts/07775de5-4af5-4905-bdc3-87e0379e50ad)
+
+---
+
+## 📜 **License**
+
+Apache 2.0 (2025) — Helix AI Innovations
+
+---
+
+## ✨ **Attribution**
+
+Helix-TTD is part of the **Helix Federation governance substrate**.
+All implementations must preserve:
+
+* advisory-only behavior
+* stateless operation
+* constitutional invariants
+
+**Structure is the teacher.
+Grammar is the alignment mechanism.**
+
+---
