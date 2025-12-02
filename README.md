@@ -52,6 +52,8 @@ Alignment becomes **injected**, not trained.
 
 ## 🔗 Reference Implementations
 
+These implimentations were created by the models with the whitepaper as context.
+
 - Gemini hostile-input firmware demo (Google AI Studio)  
   https://ai.studio/apps/drive/14aGEW2tKY936hPdNm5vZSkV6wnrIQG6S  
 
