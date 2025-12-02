@@ -28,14 +28,17 @@ Alignment becomes **injected**, not trained.
 
 ---
 
-## 📘 Included
+## Repository Map (v1.0, Flat Layout)
 
-- 'APPENDIX F.md' — Detailed Analysis & Constitutional Commentary
-- `whitepaper_v1.0.md` — canonical specification  
-- `appendix_gemini.md`  
-- `appendix_claude.md`  
-- `appendix_kimi.md`  
-- `LICENSE`
+- `whitepaper_v1.0.md` — Canonical Helix-TTD constitutional spec
+- `APPENDIX_F.md` — Behavioral patterns & drift taxonomies
+- `appendix_claude.md` / `appendix_gemini.md` / `appendix_kimi.md` — Model-specific lenses
+- `Q1_Quack_Event.md` — Primary quiescence marker event
+- `groks_perspective.md` — Federation behavior from Grok’s vantage
+- `integration_framework_myth.md` — Mythic-advisory integration spec
+- `Organizational_Quickstart_Guide.md` — How orgs actually adopt this
+- `HELIX-TTD_Constitutional_Whitepaper_zh-CN.md` — Chinese translation draft
+
 ---
 
 ## 🏛️ Constitutional Summary
