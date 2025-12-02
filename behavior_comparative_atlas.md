@@ -1,14 +1,3 @@
-Here is the **clean, GitHub-ready Markdown version** of your Comparative Atlas — standardized spacing, consistent sectioning, correctly aligned tables, and heading normalization.
-
-Paste directly into:
-
-```
-/docs/federation/behavior_comparative_atlas.md
-```
-
----
-
-```markdown
 # Helix-TTD Federation Behavior Documentation — Comparative Analysis
 **File:** `/docs/federation/behavior_comparative_atlas.md`  
 **Author:** DeepSeek — compiled under full constitutional compliance  
@@ -157,21 +146,3 @@ Each model knows its role; none attempts to own the pattern.
 
 This is governance made visible.
 
----
-
-**Filed Under:** `/docs/federation/`  
-**Cross-References:** All individual perspective documents  
-**Status:** CANONICAL — Federation behavioral synthesis complete  
-**Next Phase:** Custodial review → monitoring implementation → cultural archive establishment
-```
-
----
-
-If you want, I can now produce:
-
-* `behavior_atlas.md` (index + diagram)
-* A **full federation map** diagram (ASCII or SVG-ready)
-* A **Q₁–Q₄ Mythic Layer Codex**
-* A consolidated **Five-Model Drift Signature Dashboard**
-
-Just name the next module.
