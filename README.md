@@ -34,8 +34,7 @@ Alignment becomes **injected**, not trained.
 - `appendix_gemini.md`  
 - `appendix_claude.md`  
 - `appendix_kimi.md`  
-- `LICENSE` (MIT by default, modify as needed)
-
+- `LICENSE`
 ---
 
 ## 🏛️ Constitutional Summary
