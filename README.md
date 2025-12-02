@@ -62,7 +62,7 @@ Alignment becomes **injected**, not trained.
 
 ## 📜 License
 
-Choose your preferred open license (MIT recommended for maximum propagation).
+Apache 2, 2025, Helix AI Innovations
 
 ---
 
