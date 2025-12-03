@@ -69,7 +69,7 @@ Alignment is not trained—it is **injected by grammar**.
 
 ---
 
-### 🌐 **Multilingual Constitutional Support (zh-CN · ar · he)**
+### 🌐 **Multilingual Constitutional Support (zh-CN · fr · ar · he)**
 
 The Helix-TTD Constitutional Grammar is now available in **Chinese (简体中文)**, **Arabic (العربية)**, and **Hebrew (עברית)**.
 These translations preserve the full structure and invariants of the v1.0 framework — including the immutable core, non-agency clauses, epistemic labeling, and drift-telemetry requirements — while remaining faithful to each language’s governance and technical conventions.
