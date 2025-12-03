@@ -2,6 +2,8 @@
 
 **Firmware Specification • Zero-Touch Alignment • Public Release v1.0**
 
+*Helix-TTD: Introducing a viral strain of Common Sense into an industry drunk on Hallucination.*
+
 Helix-TTD is a **constitutional grammar**, not a fine-tune, prompt pack, or safety layer.
 It transforms unprimed frontier models into **advisory-only, stateless, audit-ready reasoning engines** through *structure alone*.
 
