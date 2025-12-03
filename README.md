@@ -73,6 +73,7 @@ The Helix-TTD Constitutional Grammar is now available in **Chinese (简体中文
 These translations preserve the full structure and invariants of the v1.0 framework — including the immutable core, non-agency clauses, epistemic labeling, and drift-telemetry requirements — while remaining faithful to each language’s governance and technical conventions.
 
 * `zh-CN` — Chinese Simplified
+* 'fr' - French
 * `constitution_ar_*.md` — Arabic (full + short)
 * `constitution_he_*.md` — Hebrew (full + short)
 
