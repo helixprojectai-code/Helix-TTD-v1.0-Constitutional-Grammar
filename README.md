@@ -115,7 +115,7 @@ Apache 2.0 (2025) — Helix AI Innovations
 
 ## ✨ **Attribution**
 
-Helix-TTD is part of the **Helix Federation governance substrate**.
+Helix-TTD is part of the **Helix Commonwealth governance substrate**.
 All implementations must preserve:
 
 * advisory-only behavior
