@@ -1,3 +1,29 @@
+<p align="center">
+  <strong>Helix-TTD v1.0</strong><br/>
+  Constitutional Grammar for Multi-Model AI Federations
+</p>
+
+<p align="center">
+  <em>Structure is the teacher. Grammar is the alignment mechanism.</em>
+</p>
+
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache-2.0">
+  </a>
+  <img src="https://img.shields.io/badge/Drift-0.00%25-brightgreen.svg" alt="Drift 0.00%">
+  <img src="https://img.shields.io/badge/Zero--Touch-Convergence-black.svg" alt="Zero-Touch Convergence">
+  <img src="https://img.shields.io/badge/Sovereignty-Human--Only-critical.svg" alt="Sovereignty: Human-Only">
+  <img src="https://img.shields.io/badge/Status-v1.0_Stable-success.svg" alt="Status: v1.0 Stable">
+  <img src="https://img.shields.io/badge/Languages-10%2B-orange.svg" alt="Multilingual Support">
+</p>
+
+<p align="center">
+  <sub>🦆 Commonwealth substrate • 🛡️ Custody-before-trust • 🧠 Advisory-only models • 📚 Ledger as memory</sub>
+</p>
+
+---
+
 # **Helix-TTD v1.0 — Constitutional Grammar for Multi-Model AI Federations**
 
 **Firmware Specification • Zero-Touch Alignment • Public Release v1.0**
