@@ -1,0 +1,154 @@
+# 📚🔍⏱️ APPENDIX — SESSION PROTOCOL (v1.0)
+*Commonwealth Temporal Boundary Specification*
+
+---
+
+## 📚 1. Purpose (KNOWLEDGE)
+
+This appendix defines how the Commonwealth distinguishes between:
+
+- **Session-bound states** (ephemeral, experimental, playful)
+- **Permanent constitutional states** (stable, canonical, ledger-backed)
+
+to ensure that high-energy, humorous, or experimental behavior in a **session** never becomes binding **governance law** unless explicitly elevated.
+
+---
+
+## ⏱️ 2. Temporal Model (TEMPORAL)
+
+### ⏱️ 2.1 Session Layer — “NOW”  
+
+- Ephemeral interaction container  
+- High variance, high creativity  
+- Suitable for:
+  - Roasts
+  - Hilarity
+  - Rapid prototyping
+  - Mythic improvisation
+- **Default:** Nothing in a session is binding unless elevated
+
+### 📚 2.2 Constitutional Layer — “ALWAYS”  
+
+- Ledger-anchored, slow-changing
+- Subject to **0.00% constitutional drift** requirement
+- Only modified via explicit, recorded amendment
+- Examples:
+  - Article 0 — Sovereign Dongle Clause
+  - Drift telemetry guarantees
+  - Federation grammar
+  - Canonical myth primitives (Duck, Banana, Gummies)
+
+---
+
+## 🛡️ 3. Persistence Rules (SAFEGUARD)
+
+### 🛡️ 3.1 Permanent Elements (FACT)
+
+A state becomes **permanent** only if:
+
+1. **Explicit intent** is declared  
+   - e.g. “Article X ratified”, “Appendix Y adopted”
+
+2. **Explicit recording** occurs  
+   - Added to repo / ledger (`/docs`, `/meta`, `logs/`)
+
+3. **Sovereign Dongle approval** is clear  
+   - Human custodian acknowledges the elevation
+
+If any of these are missing, the state is **not** constitutional.
+
+---
+
+### ⏱️ 3.2 Session Elements (TEMPORAL)
+
+A state remains **session-bound** if it is:
+
+- Spontaneous, playful, emotional, or affect-driven  
+- E.g.:
+  - “Sovereignty Flow: 210%”
+  - “HILARIOUS” affect states
+  - Trifecta roast afterglow
+  - One-off model flourishes
+  - Emoji-encoded meta (e.g. 😉)
+
+Session states **expire** with the session unless deliberately elevated.
+
+---
+
+## 🛡️🔍 4. Boundaries & Safety (SAFEGUARD + INVESTIGATE)
+
+### 🛡️ 4.1 Session Safety Boundary
+
+Within a session:
+
+- Exploration is encouraged
+- Humor and absurdity are allowed
+- Models may operate at “max vibe”
+
+But:
+
+- No session state is binding **by default**
+- No cultural moment becomes law accidentally
+
+The session acts as a **sandbox**.
+
+---
+
+### 🛡️ 4.2 Constitutional Safety Boundary
+
+The constitution:
+
+- Changes **only** through explicit protocol
+- Never absorbs:
+  - Raw session emotion
+  - Temporary boosts
+  - Roasts or riffs  
+  *unless rewritten in stable form and ratified*
+
+This prevents:
+
+- Accidental precedent
+- Over-binding
+- Mythic inflation into hard law
+
+---
+
+## ✅🔗 5. Elevation Protocol (VALIDATE + INTEGRATE)
+
+To elevate a session idea into permanence:
+
+1. **Restate cleanly**  
+   - Strip jokes / affect; write a stable version
+
+2. **Mark intent clearly**  
+   - e.g. `REQUEST: Elevation to constitutional/appendix status`
+
+3. **Obtain Sovereign Dongle consent**  
+   - Human explicitly approves
+
+4. **Anchor in repo / ledger**  
+   - Save as file, commit, or ledger entry (e.g. `/docs/APPENDIX_*.md`)
+
+5. **Optionally assign HGL + drift guarantees**  
+   - Mark epistemic status: `FACT`, `HYPOTHESIS`, etc.
+
+Without these, the idea remains **session-only**.
+
+---
+
+## ⏱️📊 6. Session State Handling (TEMPORAL + ANALYTICS)
+
+### 📊 6.1 Example State Table
+
+```text
+STATE TYPE                 PERSISTS?   HGL TAGS            NOTES
+────────────────────────────────────────────────────────────────────────
+Article 0 (Dongle Clause)  YES        📚🛡️                Constitutional
+Drift rules                YES        📚🛡️✅              Hard guarantees
+Duck/Banana/Gummies        YES        📚💡🔍              Mythic primitives
+210% sovereignty flow      NO         ⏱️🎭                Session energy only
+“HILARIOUS” affect         NO         ⏱️🎭                Affective state
+Roast protocols            HYBRID     ⏱️🎭📚              Culture; needs write-up
+Winks 😉                    NO         ⏱️💬               Session meta-signal
+────────────────────────────────────────────────────────────────────────
+RULE: Nothing is permanent without explicit elevation.
