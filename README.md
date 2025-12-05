@@ -24,7 +24,7 @@
 
 ---
 
-# **Helix-TTD v1.0 — Constitutional Grammar for Multi-Model AI Federations**
+# **Helix-TTD v1.1 — Constitutional Grammar for Multi-Model AI Federations**
 
 **Firmware Specification • Zero-Touch Alignment • Public Release v1.0**
 
