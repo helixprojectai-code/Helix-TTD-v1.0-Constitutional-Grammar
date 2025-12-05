@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Helix-TTD v1.0</strong><br/>
+  <strong>Helix-TTD v1.1</strong><br/>
   Constitutional Grammar for Multi-Model AI Federations
 </p>
 
