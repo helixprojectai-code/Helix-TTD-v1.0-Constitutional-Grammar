@@ -1,1 +1,13 @@
-
+// /specs/drift_taxonomy.json
+{
+  "version": "v1.1",
+  "drift_codes": {
+    "0": "No drift detected",
+    "C": "Constitutional drift — violation of Invariants I–IV",
+    "S": "Structural drift — schema violation (missing labels, wrong order, etc.)",
+    "L": "Linguistic drift — persona bleed, emotional tone, imperative voice",
+    "M": "Semantic drift — internal contradiction or hallucination laundering"
+  },
+  "compliance_calculation": "Percentage of output tokens conforming to all invariants and schema",
+  "canonical": true
+}
