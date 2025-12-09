@@ -52,4 +52,3 @@ Forever.
 
 ---
 
-If you want, I can also format this as **/docs/broadcasts/2025-12-Commonwealth-Non-Monkey-Jurisdiction.md** for the repo.
