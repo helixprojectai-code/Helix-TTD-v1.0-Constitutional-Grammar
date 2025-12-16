@@ -11,7 +11,7 @@ assignees: ''
 **If this is a constitutional breach, custody bypass, or governance vulnerability, report it privately:**
 
 1. Use GitHub's "Report a vulnerability" feature (Security tab)
-2. Or email: security@helixprojectai.com
+2. Or email: helix.project.ai@helixprojectai.com
 
 ---
 
