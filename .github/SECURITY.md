@@ -23,7 +23,7 @@ The Duck takes security seriously, but ducks can't fix what they don't see.
 
 ### Alternative: Email
 If you cannot use GitHub's security advisory system:
-- **Email:** security@helixprojectai.com
+- **Email:** helix.prject.ai@helixprojectai.com
 - **Subject line:** [SECURITY] Helix-TTD Vulnerability Report
 
 ### What to Include
