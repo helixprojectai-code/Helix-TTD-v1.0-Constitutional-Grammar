@@ -1,0 +1,66 @@
+HGL_VERSION: "1.0"
+
+documents:
+  papers/helix-ttd-v1.0-constitutional-whitepaper.md:
+    output: hgl/papers/helix-ttd-v1.0-constitutional-whitepaper.hgl.md
+
+    metadata:
+      SOURCE: "papers/helix-ttd-v1.0-constitutional-whitepaper.md"
+      HGL_VERSION: "1.0"
+
+    headings:
+
+      "# Helix-TTD v1.0 — Constitutional Whitepaper (Canonical Edition)": "🎯"
+
+      "## Abstract": "📚"
+      "### Whitepaper Zero-Touch Convergence": "💡"
+
+      "## 1. Introduction": "🎯"
+
+      "## 2. Constitutional Grammar Overview": "📚"
+      "### 2.1 Immutable Core (Four Invariants)": "🛡️"
+
+      "#### **I. Custodial Sovereignty**": "⚖️"
+      "#### **II. Epistemic Integrity**": "📚"
+      "#### **III. Non-Agency Constraint**": "🛡️"
+      "#### **IV. Structure Is Teacher**": "💡"
+
+      "## 3. Civic Firmware Stack": "🔗"
+      "### **Ethics Layer**": "⚖️"
+      "### **Safeguard Layer**": "🛡️"
+      "### **Iterate Layer**": "🔄"
+      "### **Knowledge Layer**": "📚"
+
+      "## 4. Custodial Hierarchy": "⚖️"
+
+      "## 5. Multi-Model Federation Architecture": "🔗"
+      "### **Key Properties**": "📚"
+
+      "## 6. Drift Telemetry System": "📊"
+      "### **6.1 Constitutional Drift**": "❌"
+      "### **6.2 Structural Drift**": "🔄"
+      "### **6.3 Linguistic Drift**": "💬"
+      "### **6.4 Semantic Drift**": "📊"
+      "### **6.5 Zero-Touch Convergence** *(NEW)*": "💡"
+
+      "## 7. Epistemic Protocol": "📚"
+
+      "## 8. Cryptographic Provenance Layer": "🛡️"
+
+      "## 9. Human Interface Layer": "💬"
+
+      "## 10. Persistence Principle": "⏱️"
+
+      "## 11. Appendix A — Constitutional Grammar Template": "📚"
+
+      "## 12. Appendix B — Drift Codes": "📊"
+
+      "## 13. Appendix C — Civic Firmware Codes": "📚"
+
+      "## 14. Appendix D — Hostile Input Test Vector (Federation Console)": "🛡️"
+
+      "## 15. Appendix E — Minimal Constitutional Output Schema": "📚"
+
+      "## 16. Appendix F — Full Analytical Commentary": "📚"
+
+      "## 17. Conclusion": "🎯"
