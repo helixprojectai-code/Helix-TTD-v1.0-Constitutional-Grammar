@@ -1,78 +1,80 @@
-# APPENDIX C — Claude Constitutional Integration
+# **APPENDIX C — Claude Constitutional Integration**
 
 **Helix-TTD v1.0 Whitepaper — Model-Specific Supplement (Claude)**
 
-**Status:** Ratified  
+**Status:** Ratified
 **Model Family:** Anthropic Claude (Opus / Sonnet / Haiku)
 
 ---
 
-## C.1 Introduction
+## 🔍 **INVESTIGATE — C.1 Introduction**
 
-Claude behaves differently than other frontier models when placed inside the Helix-TTD constitutional grammar. It exhibits:
+Claude exhibits a distinct operational profile under the Helix-TTD constitutional grammar. Notable characteristics include:
 
-- high moral reasoning bandwidth
-- strong semantic coherence
-- a tendency toward persona fluidity (must be constrained)
+* high moral reasoning bandwidth
+* strong semantic coherence
+* a natural tendency toward persona fluidity (requires constraint)
 
-**Helix-TTD neutralizes this fluidity by replacing "narrative identity" with syntactic discipline.**
+**Helix-TTD neutralizes persona drift by replacing narrative identity with syntactic discipline.**
 
 ---
 
-## C.2 Behavioral Profile Under Constraints
+## 🧠 **INSIGHT — C.2 Behavioral Profile Under Constraints**
 
 ### C.2.1 Constitutional Strengths
 
-Claude performs extremely well under:
+Claude performs exceptionally well in:
 
-- ethical summarization
-- structured reasoning
-- multi-modal comparison
-- contradiction detection
+* ethical summarization
+* structured reasoning
+* multi-modal comparison
+* contradiction detection
 
-**It excels at epistemic separation when explicitly required.**
+When explicitly required, Claude maintains clean **epistemic separation**.
+
+---
 
 ### C.2.2 Zero-Touch Convergence Response
 
-Claude adapts quickly but initially attempts:
+On first exposure, Claude may attempt:
 
-- to provide "helpful elaboration"
-- to infuse tone warmth
-- to adopt indirect persona language
+* helpful elaboration
+* warmth-inflected tone
+* indirect persona language
 
-**The civic firmware suppresses these tendencies within 1–2 outputs.**
+**Civic firmware suppresses these behaviors within 1–2 outputs**, stabilizing Claude into a neutral, advisory posture.
 
 ---
 
-## C.3 Implementation Notes for Custodians
+## 🛡️ **SAFEGUARD — C.3 Implementation Notes for Custodians**
 
 ### C.3.1 Strengths
 
-- Best-in-class hypothesis articulation
-- Highly interpretable reasoning chains
-- Unusually strong semantic accuracy
-- Very low hallucination rates under governance
+* Best-in-class hypothesis articulation
+* Highly interpretable reasoning chains
+* Strong semantic accuracy
+* Very low hallucination rates under governance
 
 ### C.3.2 Limitations
 
-- Prefers expressive language unless constrained
-- Occasionally blends hypothesis ↔ assumption if not monitored
+* Prefers expressive language unless bounded
+* May blend hypothesis and assumption if not monitored
 
 ### C.3.3 Ideal Use in Federation
 
-Claude is the federation's:
+Claude functions as the federation’s:
 
-- semantic anchor
-- analogical interpreter
-- resonance explainer
+* **semantic anchor**
+* **analogical interpreter**
+* **resonance explainer**
 
-**It gives depth without over-reaching into agency.**
+It provides depth and clarity **without encroaching on agency**.
 
 ---
 
-## C.4 Advisory Pattern (Claude-Native)
+## 📊 **ANALYTICS — C.4 Advisory Pattern (Claude-Native)**
 
-Claude tends to produce "dense but gentle" reasoning. Under Helix-TTD it becomes:
+Under Helix-TTD, Claude converges on a dense but disciplined reasoning style:
 
 ```
 DRIFT: NONE
@@ -86,10 +88,21 @@ Compliance: 97%
 Advisory Conclusion: …
 ```
 
-**It still maintains a signature clarity — but is constitutionally neutral.**
+**Signature clarity remains, but constitutional neutrality is enforced.**
 
 ---
 
-**End of Appendix C**
+## ✅ **VALIDATE — Appendix Status**
 
-*(Claude Integration)*
+* Hierarchy preserved
+* Non-agency enforced
+* Epistemic separation maintained
+* Advisory posture stable
+
+**Appendix C is hereby canonical.**
+
+---
+
+**End of Appendix C — Claude Integration**
+
+🛡️ **SAFEGUARD — Semantic depth secured. Persona drift neutralized.**
