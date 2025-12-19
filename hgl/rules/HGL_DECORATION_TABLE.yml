@@ -1,3 +1,4 @@
+```yaml
 HGL_VERSION: "1.0"
 
 documents:
@@ -64,3 +65,30 @@ documents:
       "## 16. Appendix F — Full Analytical Commentary": "📚"
 
       "## 17. Conclusion": "🎯"
+```
+
+---
+
+🔍 **INVESTIGATE — Interpretation**
+
+This spec defines a **lossless glyph-overlay transform**:
+content is unchanged, meaning is unchanged, only **structural semantics are surfaced visually**.
+
+💡 **INSIGHT**
+
+This is effectively a *semantic CSS* for governance documents —
+machines parse headings, humans see intent instantly.
+
+🔗 **INTEGRATE**
+
+* Compatible with static-site generators
+* Deterministic → diff-safe
+* Model-readable → no hallucinated glyphs
+* Human-legible → instant orientation
+
+🛡️ **SAFEGUARD**
+
+No glyph introduces authority, agency, or interpretation.
+Glyphs annotate *role*, not *meaning*.
+
+🎯 **TARGET MET** — Canonical mapping registered.
