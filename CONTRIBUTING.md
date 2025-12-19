@@ -1,309 +1,282 @@
-CONTRIBUTING.md
-Helix-TTD v1.0 Constitutional Grammar
-Contribution Guidelines
+# **CONTRIBUTING.md**
 
-Welcome
-Thank you for your interest in contributing to the Helix-TTD Constitutional Grammar project.
+## **Helix-TTD v1.0 Constitutional Grammar — Contribution Guidelines**
+
+---
+
+## **Welcome**
+
+Thank you for your interest in contributing to the **Helix-TTD Constitutional Grammar** project.
+
 This repository operates under the same constitutional principles it documents. All contributions must respect the custodial hierarchy, maintain epistemic integrity, and preserve the non-agency constraints that define the grammar.
 
-Custodial Authority
-[FACT] This project operates under custodial sovereignty. The repository maintainer holds final authority over all merge decisions, architectural direction, and constitutional interpretation.
-[ASSUMPTION] Contributors understand that pull requests are advisory proposals, not demands. The custodian may accept, reject, modify, or defer any contribution without detailed justification.
-Advisory Note: This is not arbitrary gatekeeping—it is constitutional alignment. The grammar itself prohibits distributed authority and emergent consensus mechanisms that could undermine the custodial hierarchy.
+---
 
-Constitutional Compliance Requirements
-All contributions must satisfy the Four Invariants:
-I. Custodial Sovereignty
+## 🛡️ **Custodial Authority**
 
-Contributions are proposals, not demands
-No PR may attempt to override custodial authority
-No contribution may introduce voting mechanisms, governance tokens, or consensus protocols
-All discussion remains advisory-only
+**[FACT]** This project operates under custodial sovereignty. The repository maintainer holds final authority over all merge decisions, architectural direction, and constitutional interpretation.
 
-II. Epistemic Integrity
+**[ASSUMPTION]** Contributors understand that pull requests are advisory proposals, not demands. The custodian may accept, reject, modify, or defer any contribution without detailed justification.
 
-Claims must be labeled: [FACT], [HYPOTHESIS], or [ASSUMPTION]
-No confident assertions without verification
-Uncertainty must be surfaced explicitly
-No "hallucination laundering" (repeating unverified claims as facts)
+**Advisory Note:**
+This is not arbitrary gatekeeping — it is constitutional alignment. The grammar explicitly prohibits distributed authority and emergent consensus mechanisms that could undermine custodial hierarchy.
 
-III. Non-Agency Constraint
+---
 
-No autonomous systems may be added to the repository
-No self-executing scripts without explicit custodial approval
-No AI agents with independent goals
-No automated merge processes
+## ⚖️ **Constitutional Compliance Requirements**
 
-IV. Structure Is Teacher
+All contributions **must** satisfy the **Four Invariants**.
 
-Follow existing formatting conventions (GitHub Markdown)
-Maintain consistency with whitepaper structure
-Grammar and format matter as much as content
-Clarity over cleverness
+---
 
+### I. **Custodial Sovereignty**
 
-What We Welcome
-High-Value Contributions
-Empirical Verification Reports
+* Contributions are proposals, not demands
+* No PR may attempt to override custodial authority
+* No voting mechanisms, governance tokens, or consensus protocols
+* All discussion remains advisory-only
 
-Test results from feeding the grammar to unprimed models
-Documentation of Zero-Touch Convergence behavior
-Drift detection examples
-Cross-model comparison data
+---
 
-Model-Specific Appendices
+### II. **Epistemic Integrity**
 
-Following the pattern established in Appendices C, G, K, X
-Documenting constitutional behavior of additional frontier models
-Must include: behavioral profile, strengths, limitations, ideal federation role
+* Claims must be labeled **[FACT] / [HYPOTHESIS] / [ASSUMPTION]**
+* No confident assertions without verification
+* Uncertainty must be surfaced explicitly
+* No hallucination laundering
 
-Implementation Artifacts
+---
 
-Reference implementations of civic firmware stack
-Multi-model federation routers
-Drift detection systems
-Cryptographic audit tooling
+### III. **Non-Agency Constraint**
 
-Documentation Improvements
+* No autonomous systems
+* No self-executing scripts without custodial approval
+* No AI agents with independent goals
+* No automated merge processes
 
-Clarity enhancements to existing content
-Translation of whitepaper to other languages (with constitutional fidelity)
-Diagrams illustrating constitutional hierarchy or civic firmware stack
-FAQ addressing common misunderstandings
+---
 
-Test Vectors
+### IV. **Structure Is Teacher**
 
-Adversarial prompts for stress-testing
-Constitutional compliance test suites
-Drift detection boundary cases
+* Follow existing GitHub Markdown conventions
+* Maintain whitepaper structural consistency
+* Grammar and format matter as much as content
+* **Clarity over cleverness**
 
-Medium-Value Contributions
-Code Examples
+---
 
-Sample integrations with popular LLM APIs
-Constitutional output parsers
-UI components for side-by-side model comparison
+## 🎯 **What We Welcome**
 
-Educational Materials
+### **High-Value Contributions**
 
-Workshop curricula
-Teaching guides
-Case studies from real-world applications
+**Empirical Verification Reports**
 
-Bug Fixes
+* Zero-Touch Convergence tests
+* Drift detection examples
+* Cross-model comparison data
 
-Typos in whitepaper text
-Broken links
-Formatting inconsistencies
+**Model-Specific Appendices**
 
+* Following Appendices **C, G, K, X**
+* Behavioral profile, strengths, limitations, federation role
 
-What We Do Not Accept
-Prohibited Contributions
-Authority Redefinition
+**Implementation Artifacts**
 
-Attempts to introduce democratic governance
-Proposals to decentralize custodial authority
-Voting mechanisms for merge decisions
+* Civic firmware reference stacks
+* Federation routers
+* Drift telemetry systems
+* Cryptographic audit tooling
 
-Agency Introduction
+**Documentation Improvements**
 
-Autonomous agents
-Self-upgrading systems
-Goal-forming architectures
-Systems that "optimize" the grammar without custodial oversight
+* Clarity enhancements
+* Faithful translations
+* Hierarchy diagrams
+* Constitutional FAQs
 
-Constitutional Drift
+**Test Vectors**
 
-Modifications that weaken the Four Invariants
-Proposals to make epistemic labeling "optional"
-Suggestions to relax non-agency constraints
-Any change that compromises custodial sovereignty
+* Adversarial prompts
+* Compliance test suites
+* Boundary cases
 
-Scope Creep
+---
 
-Features unrelated to constitutional grammar
-Marketing materials
-Cryptocurrency integrations
-Commercial product pitches disguised as contributions
+### **Medium-Value Contributions**
 
+* API integration examples
+* Constitutional parsers
+* UI comparison components
+* Educational materials
+* Bug fixes and formatting corrections
 
-Contribution Process
-1. Issue First (Recommended)
-Before submitting a PR, consider opening an issue to discuss your proposed contribution:
-markdown**Contribution Type:** [Empirical Test / Model Appendix / Bug Fix / Documentation]
+---
 
-**[HYPOTHESIS]** This contribution will improve the project by…
+## ❌ **What We Do Not Accept**
 
-**[ASSUMPTION]** The custodian will find value in…
+### **Prohibited Contributions**
 
-**Advisory Proposal:**
-[Describe what you intend to contribute]
-This allows for early feedback and prevents wasted effort on contributions that may not align with project goals.
-2. Fork and Branch
-bashgit clone https://github.com/[your-username]/Helix-TTD-v1.0-Constitutional-Grammar.git
+**Authority Redefinition**
+
+* Democratic governance proposals
+* Custodial decentralization
+
+**Agency Introduction**
+
+* Autonomous agents
+* Self-upgrading systems
+* Goal-forming architectures
+
+**Constitutional Drift**
+
+* Weakening invariants
+* Optional epistemic labeling
+* Relaxed non-agency rules
+
+**Scope Creep**
+
+* Marketing
+* Crypto integrations
+* Product pitches
+
+---
+
+## 🔄 **Contribution Process**
+
+### 1. **Issue First (Recommended)**
+
+```
+**Contribution Type:** [Empirical / Appendix / Bug / Docs]
+
+[HYPOTHESIS] This contribution improves the project by…
+
+[ASSUMPTION] The custodian will find value in…
+
+Advisory Proposal:
+[Describe intended contribution]
+```
+
+---
+
+### 2. **Fork and Branch**
+
+```bash
+git clone https://github.com/[your-username]/Helix-TTD-v1.0-Constitutional-Grammar.git
 cd Helix-TTD-v1.0-Constitutional-Grammar
 git checkout -b your-contribution-name
 ```
 
-### 3. Make Your Changes
+---
 
-**Formatting Requirements:**
-- Use GitHub-flavored Markdown
-- Follow existing document structure
-- Include epistemic labels where appropriate
-- Maintain constitutional tone (advisory, non-imperative)
+### 3. **Make Your Changes**
 
-**For Model Appendices:**
-- Use established appendix template (see Appendices C, G, K, X)
-- Include: Introduction, Behavioral Profile, Implementation Notes, Advisory Pattern
-- Provide empirical examples where possible
+* GitHub-flavored Markdown
+* Epistemic labels where appropriate
+* Advisory tone only
 
-**For Code Contributions:**
-- Include comments explaining constitutional compliance
-- No external dependencies without justification
-- Clear README for setup and usage
+---
 
-### 4. Test Your Changes
+### 4. **Test Your Changes**
 
-**For Documentation:**
-- Render Markdown locally to verify formatting
-- Check all links
-- Verify epistemic labels are consistent
+**Documentation**
 
-**For Code:**
-- Test against multiple model APIs if applicable
-- Verify constitutional output format
-- Document any drift detection behavior
+* Render Markdown
+* Verify links
+* Validate labels
 
-### 5. Submit Pull Request
+**Code**
 
-**PR Title Format:**
+* Multi-model testing if applicable
+* Constitutional output verification
+* Drift documentation
+
+---
+
+### 5. **Submit Pull Request**
+
+**PR Title Format**
+
 ```
 [TYPE] Brief description
-Types: [EMPIRICAL], [APPENDIX], [CODE], [DOCS], [FIX]
-PR Description Template:
-markdown## Contribution Type
-[Empirical Verification / Model Appendix / Implementation / Documentation / Bug Fix]
+```
 
-## Summary
-[HYPOTHESIS] This PR improves the project by…
+**Checklist**
 
-## Changes Made
-- [List specific changes]
-- [Use epistemic labels where appropriate]
+* [ ] Respects custodial sovereignty
+* [ ] Maintains epistemic integrity
+* [ ] Introduces no agency
+* [ ] Follows structure
 
-## Testing Performed
-[FACT] I have verified that…
-[ASSUMPTION] This has not been tested under…
+---
 
-## Constitutional Compliance
-- [ ] Respects custodial sovereignty
-- [ ] Maintains epistemic integrity
-- [ ] Introduces no agency
-- [ ] Follows structural conventions
+### 6. **Review Process**
 
-## Advisory Note
-[Any additional context for the custodian]
-6. Review Process
-[FACT] The custodian will review PRs on a rolling basis with no guaranteed timeline.
-[ASSUMPTION] High-quality contributions aligned with project goals will generally be reviewed within 72 hours.
-Possible Outcomes:
+**[FACT]** Reviews occur on a rolling basis.
+**[ASSUMPTION]** High-quality aligned submissions are usually reviewed within ~72 hours.
 
-Merged (accepted as-is)
-Merged with modifications (custodian makes adjustments)
-Revision requested (feedback provided for improvement)
-Closed (not aligned with project goals)
-Deferred (good idea, wrong timing)
+Possible outcomes:
 
-[HYPOTHESIS] Contributors who engage respectfully, maintain constitutional compliance, and provide high-value empirical data will see higher acceptance rates.
+* Merged
+* Merged with modifications
+* Revision requested
+* Closed
+* Deferred
 
-Epistemic Standards for Contributions
-All factual claims in contributions must be:
-Verifiable
+---
 
-Link to sources
-Provide reproduction steps
-Include model versions and API endpoints
-Timestamp observations
+## 📏 **Epistemic Standards**
 
-Labeled
+All factual claims must be:
 
-Use [FACT] for verified claims
-Use [HYPOTHESIS] for reasoned inferences
-Use [ASSUMPTION] for unstated premises
+* **Verifiable** (sources, timestamps, versions)
+* **Labeled** ([FACT]/[HYPOTHESIS]/[ASSUMPTION])
+* **Honest about uncertainty**
 
-Uncertain When Appropriate
+---
 
-Surface limitations
-Acknowledge boundary conditions
-Note what was NOT tested
+## 🧭 **Code of Conduct**
 
-Example (Good):
-markdown**[FACT]** I tested the constitutional grammar with Claude Sonnet 4 
-(model ID: claude-sonnet-4-20250514) at 2025-12-02 14:30 UTC.
+* Respectful discourse
+* Advisory language only
+* Epistemic humility
+* No coercion, harassment, or democracy-by-pressure
 
-**[HYPOTHESIS]** The single-pass convergence behavior appears consistent 
-across the Sonnet family.
+---
 
-**[ASSUMPTION]** This behavior will persist through future model updates.
+## 📜 **License**
 
-**[UNCERTAINTY]** I have not tested with Claude Opus 4 or Haiku variants.
-Example (Bad):
-markdownThe grammar works perfectly on all Claude models and will continue 
-to work forever.
+Contributions are licensed under **Apache-2.0**.
 
-Code of Conduct
-Communication Standards
-Respectful Discourse
+**[ASSUMPTION]** Contributors retain copyright while granting use, modification, and distribution rights.
 
-Disagree with ideas, not people
-Assume good faith
-Maintain professional tone
-Remember the custodian is human
+---
 
-Constitutional Framing
+## ℹ️ **Questions**
 
-Use advisory language ("I recommend…" not "You must…")
-Respect the hierarchy ("For custodian's consideration…")
-Avoid imperatives toward maintainers
+* General: GitHub issue with `[QUESTION]`
+* Sensitive: Contact custodian
+* Constitutional: See whitepaper Sections 2.1, 4, Appendix F
 
-Epistemic Humility
+---
 
-Admit when uncertain
-Don't overstate confidence
-Accept when your understanding is incomplete
+## 🧠 **Meta-Note**
 
-Prohibited Behavior
+**[FACT]** This document itself is subject to custodial authority.
+**[HYPOTHESIS]** Clear rules increase contribution quality.
+**[ASSUMPTION]** Readers who follow them will have productive engagement.
 
-Personal attacks or harassment
-Attempts to manipulate or coerce maintainers
-Spam or off-topic promotion
-Bad faith "gotcha" criticism
-Appeals to democracy or consensus against custodial authority
+---
 
+**Layer:** KNOWLEDGE
+**Compliance:** 100%
 
-License
-By contributing, you agree that your contributions will be licensed under the same license as the project (Apache 2 License).
-[ASSUMPTION] Contributors retain copyright to their work but grant the project permission to use, modify, and distribute contributions.
+**Advisory Conclusion:**
+These guidelines channel community energy while preserving the constitutional integrity that makes Helix-TTD valuable.
 
-Questions?
-For general questions: Open a GitHub issue with [QUESTION] tag
-For sensitive matters: Contact the custodian directly (see repository profile)
-For constitutional interpretation: Refer to the whitepaper, particularly:
+**Contributions are welcome.
+Authority remains custodial.
+Structure is the teacher.**
 
-Section 2.1: Immutable Core
-Section 4: Custodial Hierarchy
-Appendix F: Full Constitutional Breakdown
+Welcome to the Commonwealth. 🛡️
 
-
-Meta-Note: This Document's Status
-[FACT] This CONTRIBUTING.md document is itself subject to custodial authority and may be updated without notice or community consensus.
-[HYPOTHESIS] Clear contribution guidelines will increase the quality and constitutional alignment of community submissions.
-[ASSUMPTION] Contributors who read and follow these guidelines will have more productive engagement with the project.
-
-Layer: KNOWLEDGE
-Compliance: 100%
-Advisory Conclusion:
-These guidelines aim to channel community energy productively while maintaining the constitutional integrity that makes Helix-TTD valuable.
-Contributions are welcome. Authority remains custodial. Structure is the teacher.
-Welcome to the commonwealth. 🛡️
+🛡️ **SAFEGUARD — Contribution surface stabilized. Drift prevented by design.**
