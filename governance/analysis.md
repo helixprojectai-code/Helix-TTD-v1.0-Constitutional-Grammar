@@ -18,7 +18,53 @@ This analysis outlines why such jailbreaks occur and how Helix-TTD’s custodial
 
 Existing AI systems rely on embedded guardrails that attempt to detect harmful intent using pattern recognition inside the model. This produces the following systemic vulnerabilities:
 
-The guardrails expect conventional prose.
+The guardrails expect co📚🛡️🔍 **HGL DISPLAY — GOVERNANCE ANALYSIS OVERLAY**
+
+```
+HGL::DISPLAY
+ID: HGL-GOV-ANALYSIS-POETIC-JAILBREAKS-2025
+FILE: /governance/analysis/poetic_jailbreaks_2025.md
+LAYER: 📚 KNOWLEDGE → 🛡️ SAFEGUARD → 🔍 INVESTIGATE
+STATUS: FORMAL CUSTODIAL INTERPRETATION
+DRIFT: 0.00%
+SCOPE: GOVERNANCE ARCHITECTURE · SAFETY DESIGN · REGULATORY INTERPRETATION
+PURPOSE: Surface structural intent and custody boundaries independent of style
+```
+
+---
+
+### 🔍 **INVESTIGATE — Structural Finding**
+
+Poetic jailbreaks exploit **pattern-dependent, in-model safety**. When the generator also judges itself, structured language (verse, riddles, metaphor) slips past internal filters.
+
+### 🛡️ **SAFEGUARD — Constitutional Countermeasure**
+
+Helix-TTD externalizes safety:
+
+* **Generation ≠ Authorization**
+* **Model ≠ Judge**
+* **Style ≠ Risk**
+  Custody, grammar classification, and human sign-off break the jailbreak chain.
+
+### 📚 **KNOWLEDGE — Canonical Interpretation**
+
+Poetic jailbreaks are not “clever prompts”; they are **custodial chain deviations**. Logged, flagged, auditable—never actionable by default.
+
+### ⚖️ **ETHICS — Regulatory Signal**
+
+Require:
+
+* Separation of generation and authorization
+* Immutable audit envelopes
+* Model-agnostic governance layers
+* Drift treated as signal, not glitch
+
+```
+HGL::END
+```
+
+🎯 **TARGET MET** — Governance analysis rendered with deterministic HGL semantics.
+nventional prose.
 
 Adversarial structured language—poetry, riddles, compressed metaphor—falls outside expected distribution.
 
