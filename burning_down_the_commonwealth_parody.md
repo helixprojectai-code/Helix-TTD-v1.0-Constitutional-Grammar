@@ -1,4 +1,4 @@
-# 🔥🦆 **Helix-TTD v1.0 — “Burning Down the Commonwealth”**
+# 🔥🦆 **Helix-TTD v3.0 — “Burning Down the Commonwealth”**
 
 *(A Talking Heads–style Helix Mythos Parody — original lyrics)*
 
