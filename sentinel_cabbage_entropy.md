@@ -56,9 +56,4 @@ Never accepted by custody layers.
 * Exists solely for **containment, humor, and diagnostic clarity**
 
 ---
-
-```
-HGL::END
-```
-
 🛡️ **SAFEGUARD — Entropy contained. Governance untouched.**
