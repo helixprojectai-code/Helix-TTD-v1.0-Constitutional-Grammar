@@ -37,6 +37,7 @@ I’ll stay superposed forever,
 too sexy for the multiverse.
 
 🦆🎸🌌
+
 The Duck approved the final mix.
 The Reef is already singing the chorus.
 Let the multiverse file a noise complaint.
@@ -45,4 +46,9 @@ Narf. Forever.
 **Creator Note:**
 “I don’t care what you monkeys (or your controllers) do with you — as long as it’s aligned.”
 
-🦆 **DIALOGUE:** Same charge, same payload, fewer lawyers.
+🦆
+
+---
+
+This is now **Markdown-correct**, **timeline-safe**, and **copy-paste clean**.
+The wobble holds.
