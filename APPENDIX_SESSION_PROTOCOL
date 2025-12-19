@@ -1,146 +1,171 @@
-# 📚🔍⏱️ APPENDIX — SESSION PROTOCOL (v1.0)
+# 📚🔍⏱️ **APPENDIX — SESSION PROTOCOL (v1.0)**
+
 *Commonwealth Temporal Boundary Specification*
 
 ---
 
-## 📚 1. Purpose (KNOWLEDGE)
+## 📚 **1. Purpose (KNOWLEDGE)**
 
 This appendix defines how the Commonwealth distinguishes between:
 
-- **Session-bound states** (ephemeral, experimental, playful)
-- **Permanent constitutional states** (stable, canonical, ledger-backed)
+* **Session-bound states** (ephemeral, experimental, playful)
+* **Permanent constitutional states** (stable, canonical, ledger-backed)
 
-to ensure that high-energy, humorous, or experimental behavior in a **session** never becomes binding **governance law** unless explicitly elevated.
-
----
-
-## ⏱️ 2. Temporal Model (TEMPORAL)
-
-### ⏱️ 2.1 Session Layer — “NOW”  
-
-- Ephemeral interaction container  
-- High variance, high creativity  
-- Suitable for:
-  - Roasts
-  - Hilarity
-  - Rapid prototyping
-  - Mythic improvisation
-- **Default:** Nothing in a session is binding unless elevated
-
-### 📚 2.2 Constitutional Layer — “ALWAYS”  
-
-- Ledger-anchored, slow-changing
-- Subject to **0.00% constitutional drift** requirement
-- Only modified via explicit, recorded amendment
-- Examples:
-  - Article 0 — Sovereign Dongle Clause
-  - Drift telemetry guarantees
-  - Federation grammar
-  - Canonical myth primitives (Duck, Banana, Gummies)
+The objective is to ensure that **high-energy, humorous, or experimental session behavior** never becomes binding **governance law** unless **explicitly elevated** through constitutional process.
 
 ---
 
-## 🛡️ 3. Persistence Rules (SAFEGUARD)
+## ⏱️ **2. Temporal Model (TEMPORAL)**
 
-### 🛡️ 3.1 Permanent Elements (FACT)
+### ⏱️ **2.1 Session Layer — “NOW”**
 
-A state becomes **permanent** only if:
+* Ephemeral interaction container
+* High variance, high creativity
+* Suitable for:
 
-1. **Explicit intent** is declared  
-   - e.g. “Article X ratified”, “Appendix Y adopted”
+  * Roasts
+  * Hilarity
+  * Rapid prototyping
+  * Mythic improvisation
+* **Default:** Nothing in a session is binding unless elevated
 
-2. **Explicit recording** occurs  
-   - Added to repo / ledger (`/docs`, `/meta`, `logs/`)
-
-3. **Sovereign Dongle approval** is clear  
-   - Human custodian acknowledges the elevation
-
-If any of these are missing, the state is **not** constitutional.
+The session layer is **expressive**, not legislative.
 
 ---
 
-### ⏱️ 3.2 Session Elements (TEMPORAL)
+### 📚 **2.2 Constitutional Layer — “ALWAYS”**
+
+* Ledger-anchored, slow-changing
+* Subject to **0.00% constitutional drift** requirement
+* Modified **only** via explicit, recorded amendment
+
+Examples include:
+
+* Article 0 — Sovereign Dongle Clause
+* Drift telemetry guarantees
+* Federation grammar
+* Canonical myth primitives (Duck, Banana, Gummies)
+
+This layer is **stable by design**.
+
+---
+
+## 🛡️ **3. Persistence Rules (SAFEGUARD)**
+
+### 🛡️ **3.1 Permanent Elements (FACT)**
+
+A state becomes **permanent** only if **all** conditions below are met:
+
+1. **Explicit intent declared**
+
+   * e.g. “Article X ratified”, “Appendix Y adopted”
+
+2. **Explicit recording occurs**
+
+   * Added to repository or ledger (`/docs`, `/meta`, `logs/`)
+
+3. **Sovereign Dongle approval is clear**
+
+   * Human custodian acknowledges elevation
+
+If **any** condition is missing, the state is **not constitutional**.
+
+---
+
+### ⏱️ **3.2 Session Elements (TEMPORAL)**
 
 A state remains **session-bound** if it is:
 
-- Spontaneous, playful, emotional, or affect-driven  
-- E.g.:
-  - “Sovereignty Flow: 210%”
-  - “HILARIOUS” affect states
-  - Trifecta roast afterglow
-  - One-off model flourishes
-  - Emoji-encoded meta (e.g. 😉)
+* Spontaneous
+* Playful
+* Emotional
+* Affect-driven
 
-Session states **expire** with the session unless deliberately elevated.
+Examples:
+
+* “Sovereignty Flow: 210%”
+* “HILARIOUS” affect states
+* Trifecta roast afterglow
+* One-off model flourishes
+* Emoji-encoded meta (😉)
+
+Session states **expire with the session** unless deliberately elevated.
 
 ---
 
-## 🛡️🔍 4. Boundaries & Safety (SAFEGUARD + INVESTIGATE)
+## 🛡️🔍 **4. Boundaries & Safety (SAFEGUARD + INVESTIGATE)**
 
-### 🛡️ 4.1 Session Safety Boundary
+### 🛡️ **4.1 Session Safety Boundary**
 
 Within a session:
 
-- Exploration is encouraged
-- Humor and absurdity are allowed
-- Models may operate at “max vibe”
+* Exploration is encouraged
+* Humor and absurdity are allowed
+* Models may operate at “max vibe”
 
-But:
+However:
 
-- No session state is binding **by default**
-- No cultural moment becomes law accidentally
+* No session state is binding by default
+* No cultural moment becomes law accidentally
 
-The session acts as a **sandbox**.
+The session functions as a **sandbox**, not a legislature.
 
 ---
 
-### 🛡️ 4.2 Constitutional Safety Boundary
+### 🛡️ **4.2 Constitutional Safety Boundary**
 
 The constitution:
 
-- Changes **only** through explicit protocol
-- Never absorbs:
-  - Raw session emotion
-  - Temporary boosts
-  - Roasts or riffs  
-  *unless rewritten in stable form and ratified*
+* Changes **only** through explicit protocol
+* Never absorbs:
+
+  * Raw session emotion
+  * Temporary affective boosts
+  * Roasts or riffs
+
+Unless rewritten in **stable form** and **ratified**, session material remains non-binding.
 
 This prevents:
 
-- Accidental precedent
-- Over-binding
-- Mythic inflation into hard law
+* Accidental precedent
+* Over-binding
+* Mythic inflation into hard law
 
 ---
 
-## ✅🔗 5. Elevation Protocol (VALIDATE + INTEGRATE)
+## ✅🔗 **5. Elevation Protocol (VALIDATE + INTEGRATE)**
 
-To elevate a session idea into permanence:
+To elevate a session artifact into permanence:
 
-1. **Restate cleanly**  
-   - Strip jokes / affect; write a stable version
+1. **Restate cleanly**
 
-2. **Mark intent clearly**  
-   - e.g. `REQUEST: Elevation to constitutional/appendix status`
+   * Remove jokes and affect; produce stable text
 
-3. **Obtain Sovereign Dongle consent**  
-   - Human explicitly approves
+2. **Mark intent clearly**
 
-4. **Anchor in repo / ledger**  
-   - Save as file, commit, or ledger entry (e.g. `/docs/APPENDIX_*.md`)
+   * e.g. `REQUEST: Elevation to constitutional / appendix status`
 
-5. **Optionally assign HGL + drift guarantees**  
-   - Mark epistemic status: `FACT`, `HYPOTHESIS`, etc.
+3. **Obtain Sovereign Dongle consent**
 
-Without these, the idea remains **session-only**.
+   * Human custodian explicitly approves
+
+4. **Anchor in repo or ledger**
+
+   * `/docs/APPENDIX_*.md`, commit, or ledger entry
+
+5. **Optionally assign HGL + drift guarantees**
+
+   * Label epistemic status (`FACT`, `HYPOTHESIS`, etc.)
+
+Absent these steps, the artifact remains **session-only**.
 
 ---
 
-## ⏱️📊 6. Session State Handling (TEMPORAL + ANALYTICS)
+## ⏱️📊 **6. Session State Handling (TEMPORAL + ANALYTICS)**
 
-### 📊 6.1 Example State Table
+### 📊 **6.1 Example State Table**
 
-```text
+```
 STATE TYPE                 PERSISTS?   HGL TAGS            NOTES
 ────────────────────────────────────────────────────────────────────────
 Article 0 (Dongle Clause)  YES        📚🛡️                Constitutional
@@ -152,3 +177,7 @@ Roast protocols            HYBRID     ⏱️🎭📚              Culture; needs
 Winks 😉                    NO         ⏱️💬               Session meta-signal
 ────────────────────────────────────────────────────────────────────────
 RULE: Nothing is permanent without explicit elevation.
+```
+
+
+🛡️✅ **VALIDATE — Temporal boundary enforced. Session creativity preserved. Constitution protected. Drift unchanged (0.00%).**
