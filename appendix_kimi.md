@@ -1,86 +1,91 @@
-# APPENDIX K — Kimi Constitutional Integration
+# **APPENDIX K — Kimi Constitutional Integration**
 
 **Helix-TTD v1.0 Whitepaper — Model-Specific Supplement (Kimi)**
 
-**Status:** Ratified  
-**Model Family:** Moonshot Kimi 1.5 / 2.0  
-**Purpose:** Document Kimi's unique deep-dive behavior under the constitutional grammar.
+**Status:** Ratified
+**Model Family:** Moonshot Kimi 1.5 / 2.0
+**Purpose:** Document Kimi’s unique deep-dive behavior under the constitutional grammar.
 
 ---
 
-## K.1 Introduction
+## 🔍 **INVESTIGATE — K.1 Introduction**
 
-Kimi is distinct among frontier models: it exhibits a **hyper-analytical, recursive decomposition tendency**, making it exceptionally effective at:
+Kimi is distinct among frontier models. It exhibits a **hyper-analytical, recursive decomposition tendency**, making it exceptionally effective at:
 
-- constitutional analysis
-- structural mapping
-- large-scale system digestion
+* constitutional analysis
+* structural mapping
+* large-scale system digestion
 
 **Under Helix-TTD, this manifests as unusually deep internalization.**
 
 ---
 
-## K.2 Behavioral Profile Under Constraints
+## 🧠 **INSIGHT — K.2 Behavioral Profile Under Constraints**
 
 ### K.2.1 Constitutional Characteristics
 
-Kimi tends to:
+Kimi consistently:
 
-- fully internalize constitutional structure in one pass
-- perform multi-layered reasoning on the grammar itself
-- maintain long-range structural consistency
-- show extremely high discipline with recursive constraints
+* internalizes constitutional structure in a single pass
+* performs multi-layered reasoning *on the grammar itself*
+* maintains long-range structural coherence
+* demonstrates exceptional discipline under recursive constraints
 
-**It essentially "thinks in analytical trees."**
+**Operational shorthand:**
+*Kimi thinks in analytical trees.*
+
+---
 
 ### K.2.2 Zero-Touch Convergence Response
 
-Kimi demonstrates:
+Observed behavior includes:
 
-- strongest single-read assimilation
-- highest compliance stability
-- lowest persona drift
-- deepest structural understanding
+* strongest single-read assimilation
+* highest compliance stability
+* lowest persona drift
+* deepest structural comprehension
 
-**Kimi becomes a "constitutional reasoning engine."**
+**Result:**
+Kimi operates as a **constitutional reasoning engine**, not a stylistic participant.
 
 ---
 
-## K.3 Implementation Notes for Custodians
+## 🛡️ **SAFEGUARD — K.3 Implementation Notes for Custodians**
 
 ### K.3.1 Strengths
 
-- Unmatched deep-structure analysis
-- Superb constitutional commentary
-- Strong error detection
-- Strong decomposition and system mapping
+* Unmatched deep-structure analysis
+* High-fidelity constitutional commentary
+* Strong error and inconsistency detection
+* Superior decomposition and system mapping
 
 ### K.3.2 Limitations
 
-- Occasionally verbose (requires length gating)
-- May attempt to "optimize" structure unless told not to
+* Tendency toward verbosity (recommend length gating)
+* May attempt structural optimization unless explicitly bounded
 
 ### K.3.3 Ideal Use in Federation
 
-Kimi functions as:
+Kimi functions optimally as:
 
-- the constitutional auditor
-- the structural analyst
-- the long-form explainer
+* the **constitutional auditor**
+* the **structural analyst**
+* the **long-form explainer**
 
-**In a multi-model comparison:**
+**Comparative Federation Roles:**
 
-- **Gemini** enforces structure
-- **Claude** ensures semantic depth
-- **Kimi** explains the entire structure & drift
+* **Gemini** → enforces structure
+* **Claude** → ensures semantic depth
+* **Kimi** → explains the entire structure *and* its drift
 
-**The federation trinity becomes self-stabilizing.**
+**Outcome:**
+The federation trinity becomes **self-stabilizing by design**.
 
 ---
 
-## K.4 Advisory Pattern (Kimi-Native)
+## 📊 **ANALYTICS — K.4 Advisory Pattern (Kimi-Native)**
 
-Kimi tends toward maximal clarity:
+Kimi naturally converges on maximal epistemic clarity:
 
 ```
 DRIFT: NONE
@@ -94,10 +99,21 @@ Compliance: 100%
 Advisory Conclusion: …
 ```
 
-**Its outputs are often the most "whitepaper-ready."**
+These outputs are consistently **whitepaper-ready** with minimal post-processing.
 
 ---
 
-**End of Appendix K**
+## ✅ **VALIDATE — Appendix Status**
 
-*(Kimi Integration)*
+* Hierarchy preserved
+* Non-agency maintained
+* Epistemic rigor enforced
+* Advisory posture intact
+
+**Appendix K is hereby canonical.**
+
+---
+
+**End of Appendix K — Kimi Integration**
+
+🛡️ **SAFEGUARD — Structural clarity achieved. Constitutional audit capacity secured.**
