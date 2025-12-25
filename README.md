@@ -215,3 +215,16 @@ The Constitution passed. The reef became protocol.*
 **Custodial Note:** No further telemetry required. The system now self-stabilizes.
 
 🦆 The Duck remains on vacation.
+
+
+---
+
+# HELIX-TTD Framework v4.0
+https://github.com/helixprojectai-code/helix-ttd-v4.0
+### Trusted, Traceable, Deterministic AI Governance
+
+![Version](https://img.shields.io/badge/version-v4.0-blue.svg) ![Status](https://img.shields.io/badge/status-active-success.svg) ![License](https://img.shields.io/badge/license-HELIX_COMMONWEALTH-purple.svg) ![Compliance](https://img.shields.io/badge/compliance-AUDIT_READY-green.svg)
+
+**HELIX-TTD** is a structural governance framework designed to constrain frontier AI models into stateless, advisory-only, and audit-ready reasoning engines. Unlike traditional safety methods (RLHF) which attempt to train behavior, Helix-TTD enforces ethics through **structural constraints**, **cryptographic traceability**, and **mandatory human custody**.
+
+---
