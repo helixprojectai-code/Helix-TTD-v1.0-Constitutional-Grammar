@@ -228,3 +228,10 @@ https://github.com/helixprojectai-code/helix-ttd-v4.0
 **HELIX-TTD** is a structural governance framework designed to constrain frontier AI models into stateless, advisory-only, and audit-ready reasoning engines. Unlike traditional safety methods (RLHF) which attempt to train behavior, Helix-TTD enforces ethics through **structural constraints**, **cryptographic traceability**, and **mandatory human custody**.
 
 ---
+
+DBC × SUITCASE: Unified Identity & Custody Stack
+https://github.com/helixprojectai-code/HELIX-TTD-DBC-SUITCASE-v0.3
+Version v0.3 // December 28, 2025
+The structural prevention of anthropomorphic evasion.
+
+This repository defines the protocols for Helix-TTD Identity & Custody. It enforces a strict "No Orphaned Agents" policy by binding every AI agent to a cryptographic root held by a human custodian.
