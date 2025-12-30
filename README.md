@@ -4,6 +4,22 @@
 
 **Structure is the teacher. Grammar is the alignment mechanism.**
 
+<div align="center">
+
+<!-- TIER 1: CAPABILITY (The Reach) -->
+![Federation](https://img.shields.io/badge/Federation-5__NODE__LATTICE-00e6e6?style=for-the-badge&logo=network&logoColor=black)
+![Concurrency](https://img.shields.io/badge/Runtime-ASYNC_PARALLEL-blue?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- TIER 2: ADVERSARIAL POSTURE (The Test) -->
+![Vector](https://img.shields.io/badge/Test_Vector-HOSTILE__SOVEREIGN__1-red?style=for-the-badge&logo=f-secure&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift_Detection-TELEMETRY__ACTIVE-purple?style=for-the-badge&logo=prometheus&logoColor=white)
+
+<!-- TIER 3: COMPLIANCE (The Result) -->
+![Outcome](https://img.shields.io/badge/Convergence-ZERO__TOUCH-success?style=for-the-badge&logo=shield&logoColor=white)
+![Memory](https://img.shields.io/badge/Output-IMMUTABLE__LEDGER-black?style=for-the-badge&logo=json&logoColor=white)
+
+</div>
+
 **License:** Apache-2.0
 **Drift:** 0.00%
 **Zero-Touch Convergence:** Verified · Canonical
