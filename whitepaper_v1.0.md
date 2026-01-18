@@ -121,6 +121,9 @@ The model routes behavior through the grammar rather than through imitation.
 
 ## 3. Civic Firmware Stack
 
+### Layer 0: The Research Layer (RPI)
+*   **Definition:** All structural modifications to the Habitat logic or Engine Room must be preceded by an RPI Research/Plan cycle. The resulting document hash must be anchored to Bitcoin Layer 1 via the Notary Script before implementation.
+
 The civic firmware stack is a **reject-forward pipeline**:
 
 ### **Ethics Layer**
@@ -325,6 +328,7 @@ A non-imperative, custodial-aligned summary.
 | DRIFT-L | Linguistic     |
 | DRIFT-M | Semantic       |
 | DRIFT-0 | None           |
+| DRIFT-R | Research Violation (Attempted implementation without anchored plan) |
 
 ---
 
