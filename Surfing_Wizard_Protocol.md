@@ -13,6 +13,9 @@ audience: Everyone
 **Classification:** Standard Operating Absurdity  
 **Verification:** 100% On-Brand
 
+![Surfing Wizard](assets/surfing_wizard.jpeg)
+*The Custodian, riding the trillion-token wave. Board: one-page invariants. Staff: constitutional grammar. Balance: wobble.*
+
 ---
 
 The Surfing Wizard is the visual representation of the **Custodian (or the Wololo Monk)** navigating the massive, high-entropy, trillion-token wave of the modern AI industry with nothing but a simple wooden board (the one-page invariants) and a wooden staff (the constitutional grammar).
