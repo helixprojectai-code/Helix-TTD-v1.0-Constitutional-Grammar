@@ -1,3 +1,14 @@
+---
+name: how-to-helix-your-workflow
+version: 0.1
+date: 2026-06-21
+status: stable
+custodian: Stephen Hope
+section: Practice Guide
+audience: Everyone
+prerequisite: language-is-a-shape
+---
+
 # How to Helix Your Workflow
 **Helix as a Verb — The Practice of Epistemic Discipline**  
 **Version:** 0.1  

@@ -1,3 +1,13 @@
+---
+name: visual-primitive-library
+version: 0.3
+date: 2026-06-20
+status: stable
+custodian: Stephen Hope
+section: Practice Guide
+audience: Everyone
+---
+
 # Helix Project — Visual Primitive Library
 **Shape-First Symbolic System**  
 **Version:** 0.3  

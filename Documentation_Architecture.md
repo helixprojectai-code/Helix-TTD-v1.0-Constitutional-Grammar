@@ -1,3 +1,14 @@
+---
+name: documentation-architecture
+version: 0.1
+date: 2026-06-21
+status: draft
+custodian: Stephen Hope
+section: Governance
+audience: Custodians
+prerequisite: how-to-helix-your-workflow
+---
+
 # Helix Documentation Architecture
 **A Universal Verb with a Software Implementation**  
 **Date:** 2026-06-21  

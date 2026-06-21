@@ -1,3 +1,13 @@
+---
+name: language-is-a-shape
+version: 0.1
+date: 2026-06-20
+status: stable
+custodian: Stephen Hope
+section: Practice Guide
+audience: Everyone
+---
+
 # Language Is a Shape — Words Are Dialects
 **Helix Linguistic Philosophy**  
 **Date:** 2026-06-20  

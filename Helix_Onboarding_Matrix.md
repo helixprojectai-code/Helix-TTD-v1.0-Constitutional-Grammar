@@ -1,3 +1,14 @@
+---
+name: helix-onboarding-matrix
+version: 0.1
+date: 2026-06-21
+status: stable
+custodian: Stephen Hope
+section: Practice Guide
+audience: Everyone
+prerequisite: how-to-helix-your-workflow
+---
+
 # Helix Onboarding Matrix
 **Skill Progression: Novice → Master**  
 **Date:** 2026-06-21  
