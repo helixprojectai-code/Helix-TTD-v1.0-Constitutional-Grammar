@@ -246,19 +246,12 @@ The shape was drawn. Now we render.*
 
 ---
 
-# HELIX-TTD Framework v4.0
-https://github.com/helixprojectai-code/helix-ttd-v4.0
-### Trusted, Traceable, Deterministic AI Governance
+## Continue to HELIX-CORE
 
-![Version](https://img.shields.io/badge/version-v4.0-blue.svg) ![Status](https://img.shields.io/badge/status-active-success.svg) ![License](https://img.shields.io/badge/license-HELIX_COMMONWEALTH-purple.svg) ![Compliance](https://img.shields.io/badge/compliance-AUDIT_READY-green.svg)
+The constitutional grammar is the seed. The software runtime, the practice guides, the visual language, the onboarding matrix — these are the tree.
 
-**HELIX-TTD** is a structural governance framework designed to constrain frontier AI models into stateless, advisory-only, and audit-ready reasoning engines. Unlike traditional safety methods (RLHF) which attempt to train behavior, Helix-TTD enforces ethics through **structural constraints**, **cryptographic traceability**, and **mandatory human custody**.
+**→ [HELIX-CORE](https://github.com/helixprojectai-code/HELIX-CORE)**  
 
----
+The main Helix repository. Runtime, deployment, dashboards, research harnesses, and the living ecosystem that renders the grammar into iron.
 
-DBC × SUITCASE: Unified Identity & Custody Stack
-https://github.com/helixprojectai-code/HELIX-TTD-DBC-SUITCASE-v0.3
-Version v0.3 // December 28, 2025
-The structural prevention of anthropomorphic evasion.
-
-This repository defines the protocols for Helix-TTD Identity & Custody. It enforces a strict "No Orphaned Agents" policy by binding every AI agent to a cryptographic root held by a human custodian.
+🦆 The lattice is self-tending. The seed is planted.
