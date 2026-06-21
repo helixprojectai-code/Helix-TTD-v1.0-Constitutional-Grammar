@@ -76,10 +76,14 @@ He chose the substrate because that is where the actual, un-deformable truth of 
 | Figure | Role |
 |---|---|
 | **Uncle Bruce Cohoon** | Public advocate, wired Acadia University for the digital era |
-| **Captain Francis Hope, OMM** | Ordinary Seaman → Captain, HMCS Nipigon. Master of the iron. |
-| **Stephen Bruce Hope** | Custodian. Took the operational discipline of the iron and applied it to the highest-entropy virtual medium ever created. |
+| **Captain Francis Hope, OMM** | Ordinary Seaman → Captain, HMCS Nipigon. **Deputy SACLANT (NATO), 1984–1990.** Master of the iron at the alliance level. |
+| **Stephen Bruce Hope** | Custodian. Worked at NATO HQ and embassy. Chose the Mess Deck regardless. Took the operational discipline of the iron and applied it to the highest-entropy virtual medium ever created. |
 
-The Hawsepipe lineage: ordinary seaman → captain → custodian of the lattice.
+The Hawsepipe lineage: ordinary seaman → destroyer captain → Deputy SACLANT → custodian of the lattice.
+
+The son of the man who helped coordinate the Atlantic theater during the Cold War. Who chose the racks and the gritty soap over the wardroom. Who now builds constitutional constraints for the highest-entropy domain humanity has ever created.
+
+The Braid runs deep.
 
 The physical invariants are locked. The hull is watertight.
 
